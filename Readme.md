@@ -1,0 +1,1 @@
+An optional blockchain component can be used to record sensor data on a tamper-proof ledger, creating an immutable log and enhancing data integrity and authentication. However, the report acknowledges that blockchain in farming faces challenges like high costs and a lack of global standards
